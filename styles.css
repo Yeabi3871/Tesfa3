@@ -653,4 +653,10 @@ footer {
     .newsletter-form {
         max-width: 100%;
     }
+
+    .logo img {
+        width: 40px; 
+        height: auto; 
+        margin-right: 10px; 
+    }
 }
